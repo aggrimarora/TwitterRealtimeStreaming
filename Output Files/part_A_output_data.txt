@@ -1,0 +1,3864 @@
+----------- 2021-06-20 23:59:02 -----------
+----------- 2021-06-20 23:59:04 -----------
+----------- 2021-06-20 23:59:06 -----------
+----------- 2021-06-20 23:59:08 -----------
+covid19                                  1
+----------- 2021-06-20 23:59:10 -----------
+covid19                                  2
+----------- 2021-06-20 23:59:12 -----------
+covid19                                  2
+----------- 2021-06-20 23:59:14 -----------
+covid19                                  2
+----------- 2021-06-20 23:59:16 -----------
+covid19                                  2
+----------- 2021-06-20 23:59:18 -----------
+covid19                                  3
+----------- 2021-06-20 23:59:20 -----------
+covid19                                  3
+----------- 2021-06-20 23:59:22 -----------
+covid19                                  3
+deltavariant                             1
+----------- 2021-06-20 23:59:24 -----------
+covid19                                  3
+deltavariant                             1
+----------- 2021-06-20 23:59:26 -----------
+covid19                                  5
+deltavariant                             1
+----------- 2021-06-20 23:59:28 -----------
+covid19                                  5
+deltavariant                             1
+----------- 2021-06-20 23:59:30 -----------
+covid19                                  6
+deltavariant                             1
+----------- 2021-06-20 23:59:32 -----------
+covid19                                  7
+deltavariant                             1
+----------- 2021-06-20 23:59:34 -----------
+covid19                                  8
+deltavariant                             1
+covidvaccine                             1
+----------- 2021-06-20 23:59:36 -----------
+covid19                                  9
+deltavariant                             1
+covidvaccine                             1
+----------- 2021-06-20 23:59:38 -----------
+covid19                                  9
+deltavariant                             1
+covidvaccine                             1
+----------- 2021-06-20 23:59:40 -----------
+covid19                                  9
+deltavariant                             2
+covidvaccine                             1
+----------- 2021-06-20 23:59:42 -----------
+covid19                                  9
+deltavariant                             2
+covidvaccine                             1
+----------- 2021-06-20 23:59:44 -----------
+covid19                                  10
+deltavariant                             2
+covidvaccine                             1
+----------- 2021-06-20 23:59:46 -----------
+covid19                                  10
+deltavariant                             2
+covidvaccine                             1
+----------- 2021-06-20 23:59:48 -----------
+covid19                                  11
+deltavariant                             3
+covidvaccine                             2
+----------- 2021-06-20 23:59:50 -----------
+covid19                                  11
+deltavariant                             3
+covidvaccine                             2
+----------- 2021-06-20 23:59:52 -----------
+covid19                                  11
+deltavariant                             3
+covidvaccine                             2
+----------- 2021-06-20 23:59:54 -----------
+covid19                                  14
+deltavariant                             4
+covidvaccine                             2
+----------- 2021-06-20 23:59:56 -----------
+covid19                                  15
+deltavariant                             4
+covidvaccine                             2
+----------- 2021-06-20 23:59:58 -----------
+covid19                                  16
+deltavariant                             4
+covidvaccine                             2
+----------- 2021-06-21 00:00:00 -----------
+covid19                                  18
+deltavariant                             5
+covidvaccine                             2
+----------- 2021-06-21 00:00:02 -----------
+covid19                                  19
+deltavariant                             5
+covidvaccine                             2
+----------- 2021-06-21 00:00:04 -----------
+covid19                                  19
+deltavariant                             5
+covidvaccine                             2
+----------- 2021-06-21 00:00:06 -----------
+covid19                                  21
+deltavariant                             5
+covidvaccine                             2
+----------- 2021-06-21 00:00:08 -----------
+covid19                                  25
+deltavariant                             5
+covidvaccine                             2
+----------- 2021-06-21 00:00:10 -----------
+covid19                                  25
+deltavariant                             5
+covidvaccine                             2
+----------- 2021-06-21 00:00:12 -----------
+covid19                                  26
+deltavariant                             6
+covidvaccine                             2
+----------- 2021-06-21 00:00:14 -----------
+covid19                                  28
+deltavariant                             7
+covidvaccine                             2
+----------- 2021-06-21 00:00:16 -----------
+covid19                                  30
+deltavariant                             7
+covidvaccine                             2
+----------- 2021-06-21 00:00:18 -----------
+covid19                                  30
+deltavariant                             8
+covidvaccine                             2
+----------- 2021-06-21 00:00:20 -----------
+covid19                                  32
+deltavariant                             9
+covidvaccine                             2
+----------- 2021-06-21 00:00:22 -----------
+covid19                                  32
+deltavariant                             9
+covidvaccine                             2
+----------- 2021-06-21 00:00:24 -----------
+covid19                                  33
+deltavariant                             9
+covidvaccine                             2
+----------- 2021-06-21 00:00:26 -----------
+covid19                                  34
+deltavariant                             9
+covidvaccine                             2
+----------- 2021-06-21 00:00:28 -----------
+covid19                                  36
+deltavariant                             9
+covidvaccine                             2
+----------- 2021-06-21 00:00:30 -----------
+covid19                                  37
+deltavariant                             9
+covidvaccine                             2
+----------- 2021-06-21 00:00:32 -----------
+covid19                                  37
+deltavariant                             10
+covidvaccine                             2
+----------- 2021-06-21 00:00:34 -----------
+covid19                                  37
+deltavariant                             10
+covidvaccine                             2
+----------- 2021-06-21 00:00:36 -----------
+covid19                                  38
+deltavariant                             10
+covidvaccine                             2
+----------- 2021-06-21 00:00:38 -----------
+covid19                                  40
+deltavariant                             10
+covidvaccine                             2
+----------- 2021-06-21 00:00:40 -----------
+covid19                                  40
+deltavariant                             10
+covidvaccine                             2
+----------- 2021-06-21 00:00:42 -----------
+covid19                                  41
+deltavariant                             11
+covidvaccine                             2
+----------- 2021-06-21 00:00:44 -----------
+covid19                                  42
+deltavariant                             11
+covidvaccine                             2
+----------- 2021-06-21 00:00:46 -----------
+covid19                                  43
+deltavariant                             11
+covidvaccine                             2
+----------- 2021-06-21 00:00:48 -----------
+covid19                                  43
+deltavariant                             11
+covidvaccine                             3
+----------- 2021-06-21 00:00:50 -----------
+covid19                                  43
+deltavariant                             11
+covidvaccine                             3
+----------- 2021-06-21 00:00:52 -----------
+covid19                                  43
+deltavariant                             11
+covidvaccine                             3
+----------- 2021-06-21 00:00:54 -----------
+covid19                                  44
+deltavariant                             11
+covidvaccine                             3
+----------- 2021-06-21 00:00:56 -----------
+covid19                                  44
+deltavariant                             11
+covidvaccine                             3
+----------- 2021-06-21 00:00:58 -----------
+covid19                                  44
+deltavariant                             12
+covidvaccine                             3
+----------- 2021-06-21 00:01:00 -----------
+covid19                                  44
+deltavariant                             12
+covidvaccine                             3
+----------- 2021-06-21 00:01:02 -----------
+covid19                                  44
+deltavariant                             12
+covidvaccine                             3
+----------- 2021-06-21 00:01:04 -----------
+covid19                                  45
+deltavariant                             12
+covidvaccine                             3
+----------- 2021-06-21 00:01:06 -----------
+covid19                                  46
+deltavariant                             12
+covidvaccine                             3
+----------- 2021-06-21 00:01:08 -----------
+covid19                                  47
+deltavariant                             13
+covidvaccine                             3
+----------- 2021-06-21 00:01:10 -----------
+covid19                                  48
+deltavariant                             14
+covidvaccine                             3
+----------- 2021-06-21 00:01:12 -----------
+covid19                                  49
+deltavariant                             14
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:01:14 -----------
+covid19                                  50
+deltavariant                             14
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:01:16 -----------
+covid19                                  50
+deltavariant                             15
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:01:18 -----------
+covid19                                  50
+deltavariant                             15
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:01:20 -----------
+covid19                                  50
+deltavariant                             15
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:01:22 -----------
+covid19                                  50
+deltavariant                             15
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:01:24 -----------
+covid19                                  51
+deltavariant                             15
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:01:26 -----------
+covid19                                  51
+deltavariant                             15
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:01:28 -----------
+covid19                                  51
+deltavariant                             15
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:01:30 -----------
+covid19                                  51
+deltavariant                             15
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:01:32 -----------
+covid19                                  51
+deltavariant                             15
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:01:34 -----------
+covid19                                  51
+deltavariant                             15
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:01:36 -----------
+covid19                                  51
+deltavariant                             15
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:01:38 -----------
+covid19                                  51
+deltavariant                             15
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:01:40 -----------
+covid19                                  51
+deltavariant                             15
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:01:42 -----------
+covid19                                  51
+deltavariant                             15
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:01:44 -----------
+covid19                                  51
+deltavariant                             15
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:01:46 -----------
+covid19                                  51
+deltavariant                             15
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:01:48 -----------
+covid19                                  51
+deltavariant                             16
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:01:50 -----------
+covid19                                  51
+deltavariant                             16
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:01:52 -----------
+covid19                                  51
+deltavariant                             16
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:01:54 -----------
+covid19                                  52
+deltavariant                             16
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:01:56 -----------
+covid19                                  52
+deltavariant                             16
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:01:58 -----------
+covid19                                  52
+deltavariant                             16
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:02:00 -----------
+covid19                                  53
+deltavariant                             16
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:02:02 -----------
+covid19                                  53
+deltavariant                             16
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:02:04 -----------
+covid19                                  53
+deltavariant                             16
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:02:06 -----------
+covid19                                  53
+deltavariant                             16
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:02:08 -----------
+covid19                                  54
+deltavariant                             16
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:02:10 -----------
+covid19                                  55
+deltavariant                             16
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:02:12 -----------
+covid19                                  55
+deltavariant                             16
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:02:14 -----------
+covid19                                  55
+deltavariant                             16
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:02:16 -----------
+covid19                                  55
+deltavariant                             16
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:02:18 -----------
+covid19                                  55
+deltavariant                             16
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:02:20 -----------
+covid19                                  57
+deltavariant                             17
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:02:22 -----------
+covid19                                  59
+deltavariant                             17
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:02:24 -----------
+covid19                                  60
+deltavariant                             17
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:02:26 -----------
+covid19                                  60
+deltavariant                             17
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:02:28 -----------
+covid19                                  61
+deltavariant                             18
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:02:30 -----------
+covid19                                  62
+deltavariant                             18
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:02:32 -----------
+covid19                                  62
+deltavariant                             18
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:02:34 -----------
+covid19                                  62
+deltavariant                             18
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:02:36 -----------
+covid19                                  62
+deltavariant                             18
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:02:38 -----------
+covid19                                  63
+deltavariant                             18
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:02:40 -----------
+covid19                                  63
+deltavariant                             18
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:02:42 -----------
+covid19                                  64
+deltavariant                             18
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:02:44 -----------
+covid19                                  64
+deltavariant                             19
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:02:46 -----------
+covid19                                  64
+deltavariant                             19
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:02:48 -----------
+covid19                                  65
+deltavariant                             19
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:02:50 -----------
+covid19                                  65
+deltavariant                             19
+covidvaccine                             3
+vaccines                                 1
+----------- 2021-06-21 00:02:52 -----------
+covid19                                  65
+deltavariant                             19
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:02:54 -----------
+covid19                                  65
+deltavariant                             19
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:02:56 -----------
+covid19                                  67
+deltavariant                             19
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:02:58 -----------
+covid19                                  67
+deltavariant                             19
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:03:00 -----------
+covid19                                  69
+deltavariant                             20
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:03:02 -----------
+covid19                                  69
+deltavariant                             20
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:03:04 -----------
+covid19                                  69
+deltavariant                             20
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:03:06 -----------
+covid19                                  70
+deltavariant                             20
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:03:08 -----------
+covid19                                  70
+deltavariant                             21
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:03:10 -----------
+covid19                                  71
+deltavariant                             21
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:03:12 -----------
+covid19                                  71
+deltavariant                             21
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:03:14 -----------
+covid19                                  71
+deltavariant                             21
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:03:16 -----------
+covid19                                  71
+deltavariant                             22
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:03:18 -----------
+covid19                                  71
+deltavariant                             22
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:03:20 -----------
+covid19                                  71
+deltavariant                             22
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:03:22 -----------
+covid19                                  71
+deltavariant                             22
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:03:24 -----------
+covid19                                  71
+deltavariant                             22
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:03:26 -----------
+covid19                                  71
+deltavariant                             22
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:03:28 -----------
+covid19                                  71
+deltavariant                             22
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:03:30 -----------
+covid19                                  71
+deltavariant                             22
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:03:32 -----------
+covid19                                  71
+deltavariant                             22
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:03:34 -----------
+covid19                                  71
+deltavariant                             22
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:03:36 -----------
+covid19                                  71
+deltavariant                             22
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:03:38 -----------
+covid19                                  71
+deltavariant                             22
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:03:40 -----------
+covid19                                  72
+deltavariant                             22
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:03:42 -----------
+covid19                                  72
+deltavariant                             22
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:03:44 -----------
+covid19                                  72
+deltavariant                             22
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:03:46 -----------
+covid19                                  72
+deltavariant                             22
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:03:48 -----------
+covid19                                  72
+deltavariant                             22
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:03:50 -----------
+covid19                                  73
+deltavariant                             22
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:03:52 -----------
+covid19                                  73
+deltavariant                             22
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:03:54 -----------
+covid19                                  73
+deltavariant                             22
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:03:56 -----------
+covid19                                  73
+deltavariant                             22
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:03:58 -----------
+covid19                                  74
+deltavariant                             22
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:04:00 -----------
+covid19                                  78
+deltavariant                             23
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:04:02 -----------
+covid19                                  79
+deltavariant                             23
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:04:04 -----------
+covid19                                  79
+deltavariant                             23
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:04:06 -----------
+covid19                                  79
+deltavariant                             23
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:04:08 -----------
+covid19                                  80
+deltavariant                             23
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:04:10 -----------
+covid19                                  80
+deltavariant                             23
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:04:12 -----------
+covid19                                  80
+deltavariant                             24
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:04:14 -----------
+covid19                                  80
+deltavariant                             24
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:04:16 -----------
+covid19                                  82
+deltavariant                             24
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:04:18 -----------
+covid19                                  84
+deltavariant                             24
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:04:20 -----------
+covid19                                  84
+deltavariant                             24
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:04:22 -----------
+covid19                                  86
+deltavariant                             25
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:04:24 -----------
+covid19                                  86
+deltavariant                             25
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:04:26 -----------
+covid19                                  86
+deltavariant                             25
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:04:28 -----------
+covid19                                  86
+deltavariant                             25
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:04:30 -----------
+covid19                                  86
+deltavariant                             25
+covidvaccine                             4
+vaccines                                 1
+----------- 2021-06-21 00:04:32 -----------
+covid19                                  87
+deltavariant                             25
+covidvaccine                             5
+vaccines                                 1
+----------- 2021-06-21 00:04:34 -----------
+covid19                                  88
+deltavariant                             25
+covidvaccine                             5
+vaccines                                 1
+----------- 2021-06-21 00:04:36 -----------
+covid19                                  88
+deltavariant                             25
+covidvaccine                             5
+vaccines                                 1
+----------- 2021-06-21 00:04:38 -----------
+covid19                                  89
+deltavariant                             25
+covidvaccine                             5
+vaccines                                 1
+----------- 2021-06-21 00:04:40 -----------
+covid19                                  91
+deltavariant                             25
+covidvaccine                             5
+vaccines                                 1
+----------- 2021-06-21 00:04:42 -----------
+covid19                                  91
+deltavariant                             25
+covidvaccine                             5
+vaccines                                 1
+----------- 2021-06-21 00:04:44 -----------
+covid19                                  92
+deltavariant                             26
+covidvaccine                             5
+vaccines                                 1
+----------- 2021-06-21 00:04:46 -----------
+covid19                                  92
+deltavariant                             26
+covidvaccine                             5
+vaccines                                 1
+----------- 2021-06-21 00:04:48 -----------
+covid19                                  92
+deltavariant                             26
+covidvaccine                             5
+vaccines                                 1
+----------- 2021-06-21 00:04:50 -----------
+covid19                                  92
+deltavariant                             26
+covidvaccine                             5
+vaccines                                 1
+----------- 2021-06-21 00:04:52 -----------
+covid19                                  93
+deltavariant                             26
+covidvaccine                             5
+vaccines                                 1
+----------- 2021-06-21 00:04:54 -----------
+covid19                                  93
+deltavariant                             26
+covidvaccine                             5
+vaccines                                 1
+----------- 2021-06-21 00:04:56 -----------
+covid19                                  93
+deltavariant                             26
+covidvaccine                             6
+vaccines                                 1
+----------- 2021-06-21 00:04:58 -----------
+covid19                                  93
+deltavariant                             26
+covidvaccine                             6
+vaccines                                 1
+----------- 2021-06-21 00:05:00 -----------
+covid19                                  93
+deltavariant                             26
+covidvaccine                             6
+vaccines                                 1
+----------- 2021-06-21 00:05:02 -----------
+covid19                                  94
+deltavariant                             26
+covidvaccine                             6
+vaccines                                 1
+----------- 2021-06-21 00:05:04 -----------
+covid19                                  94
+deltavariant                             26
+covidvaccine                             6
+vaccines                                 1
+----------- 2021-06-21 00:05:06 -----------
+covid19                                  97
+deltavariant                             26
+covidvaccine                             6
+vaccines                                 1
+----------- 2021-06-21 00:05:08 -----------
+covid19                                  97
+deltavariant                             26
+covidvaccine                             6
+vaccines                                 1
+----------- 2021-06-21 00:05:10 -----------
+covid19                                  97
+deltavariant                             26
+covidvaccine                             6
+vaccines                                 1
+----------- 2021-06-21 00:05:12 -----------
+covid19                                  97
+deltavariant                             26
+covidvaccine                             6
+vaccines                                 1
+----------- 2021-06-21 00:05:14 -----------
+covid19                                  97
+deltavariant                             26
+covidvaccine                             6
+vaccines                                 1
+----------- 2021-06-21 00:05:16 -----------
+covid19                                  97
+deltavariant                             26
+covidvaccine                             6
+vaccines                                 1
+----------- 2021-06-21 00:05:18 -----------
+covid19                                  97
+deltavariant                             26
+covidvaccine                             6
+vaccines                                 1
+----------- 2021-06-21 00:05:20 -----------
+covid19                                  97
+deltavariant                             26
+covidvaccine                             6
+vaccines                                 1
+----------- 2021-06-21 00:05:22 -----------
+covid19                                  98
+deltavariant                             26
+covidvaccine                             6
+vaccines                                 1
+----------- 2021-06-21 00:05:24 -----------
+covid19                                  98
+deltavariant                             26
+covidvaccine                             6
+vaccines                                 1
+----------- 2021-06-21 00:05:26 -----------
+covid19                                  98
+deltavariant                             26
+covidvaccine                             6
+vaccines                                 1
+----------- 2021-06-21 00:05:28 -----------
+covid19                                  98
+deltavariant                             26
+covidvaccine                             6
+vaccines                                 1
+----------- 2021-06-21 00:05:30 -----------
+covid19                                  98
+deltavariant                             26
+covidvaccine                             6
+vaccines                                 1
+----------- 2021-06-21 00:05:32 -----------
+covid19                                  98
+deltavariant                             26
+covidvaccine                             6
+vaccines                                 1
+----------- 2021-06-21 00:05:34 -----------
+covid19                                  98
+deltavariant                             26
+covidvaccine                             6
+vaccines                                 1
+----------- 2021-06-21 00:05:36 -----------
+covid19                                  99
+deltavariant                             27
+covidvaccine                             6
+vaccines                                 1
+----------- 2021-06-21 00:05:38 -----------
+covid19                                  99
+deltavariant                             27
+covidvaccine                             6
+vaccines                                 1
+----------- 2021-06-21 00:05:40 -----------
+covid19                                  99
+deltavariant                             27
+covidvaccine                             6
+vaccines                                 1
+----------- 2021-06-21 00:05:42 -----------
+covid19                                  99
+deltavariant                             27
+covidvaccine                             6
+vaccines                                 1
+----------- 2021-06-21 00:05:44 -----------
+covid19                                  99
+deltavariant                             27
+covidvaccine                             6
+vaccines                                 1
+----------- 2021-06-21 00:05:46 -----------
+covid19                                  101
+deltavariant                             27
+covidvaccine                             6
+vaccines                                 1
+----------- 2021-06-21 00:05:48 -----------
+covid19                                  101
+deltavariant                             27
+covidvaccine                             6
+vaccines                                 1
+----------- 2021-06-21 00:05:50 -----------
+covid19                                  101
+deltavariant                             27
+covidvaccine                             6
+vaccines                                 1
+----------- 2021-06-21 00:05:52 -----------
+covid19                                  101
+deltavariant                             27
+covidvaccine                             6
+vaccines                                 1
+----------- 2021-06-21 00:05:54 -----------
+covid19                                  102
+deltavariant                             27
+covidvaccine                             6
+vaccines                                 1
+----------- 2021-06-21 00:05:56 -----------
+covid19                                  103
+deltavariant                             28
+covidvaccine                             6
+vaccines                                 1
+----------- 2021-06-21 00:05:58 -----------
+covid19                                  103
+deltavariant                             28
+covidvaccine                             6
+vaccines                                 1
+----------- 2021-06-21 00:06:00 -----------
+covid19                                  103
+deltavariant                             28
+covidvaccine                             6
+vaccines                                 1
+----------- 2021-06-21 00:06:02 -----------
+covid19                                  103
+deltavariant                             28
+covidvaccine                             6
+vaccines                                 1
+----------- 2021-06-21 00:06:04 -----------
+covid19                                  103
+deltavariant                             29
+covidvaccine                             6
+vaccines                                 1
+----------- 2021-06-21 00:06:06 -----------
+covid19                                  103
+deltavariant                             29
+covidvaccine                             6
+vaccines                                 1
+----------- 2021-06-21 00:06:08 -----------
+covid19                                  104
+deltavariant                             29
+covidvaccine                             7
+vaccines                                 1
+----------- 2021-06-21 00:06:10 -----------
+covid19                                  104
+deltavariant                             29
+covidvaccine                             7
+vaccines                                 1
+----------- 2021-06-21 00:06:12 -----------
+covid19                                  104
+deltavariant                             31
+covidvaccine                             7
+vaccines                                 1
+----------- 2021-06-21 00:06:14 -----------
+covid19                                  104
+deltavariant                             31
+covidvaccine                             7
+vaccines                                 1
+----------- 2021-06-21 00:06:16 -----------
+covid19                                  104
+deltavariant                             31
+covidvaccine                             7
+vaccines                                 1
+----------- 2021-06-21 00:06:18 -----------
+covid19                                  104
+deltavariant                             31
+covidvaccine                             7
+vaccines                                 1
+----------- 2021-06-21 00:06:20 -----------
+covid19                                  104
+deltavariant                             31
+covidvaccine                             7
+vaccines                                 1
+----------- 2021-06-21 00:06:22 -----------
+covid19                                  104
+deltavariant                             31
+covidvaccine                             7
+vaccines                                 1
+----------- 2021-06-21 00:06:24 -----------
+covid19                                  104
+deltavariant                             31
+covidvaccine                             7
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:06:26 -----------
+covid19                                  104
+deltavariant                             31
+covidvaccine                             7
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:06:28 -----------
+covid19                                  105
+deltavariant                             31
+covidvaccine                             7
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:06:30 -----------
+covid19                                  106
+deltavariant                             32
+covidvaccine                             7
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:06:32 -----------
+covid19                                  106
+deltavariant                             33
+covidvaccine                             7
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:06:34 -----------
+covid19                                  106
+deltavariant                             33
+covidvaccine                             7
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:06:36 -----------
+covid19                                  106
+deltavariant                             33
+covidvaccine                             7
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:06:38 -----------
+covid19                                  107
+deltavariant                             33
+covidvaccine                             7
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:06:40 -----------
+covid19                                  107
+deltavariant                             33
+covidvaccine                             7
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:06:42 -----------
+covid19                                  108
+deltavariant                             33
+covidvaccine                             7
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:06:44 -----------
+covid19                                  109
+deltavariant                             33
+covidvaccine                             7
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:06:46 -----------
+covid19                                  109
+deltavariant                             33
+covidvaccine                             7
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:06:48 -----------
+covid19                                  109
+deltavariant                             33
+covidvaccine                             7
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:06:50 -----------
+covid19                                  110
+deltavariant                             33
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:06:52 -----------
+covid19                                  113
+deltavariant                             33
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:06:54 -----------
+covid19                                  113
+deltavariant                             33
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:06:56 -----------
+covid19                                  114
+deltavariant                             33
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:06:58 -----------
+covid19                                  114
+deltavariant                             34
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:07:00 -----------
+covid19                                  115
+deltavariant                             34
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:07:02 -----------
+covid19                                  116
+deltavariant                             34
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:07:04 -----------
+covid19                                  116
+deltavariant                             35
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:07:06 -----------
+covid19                                  117
+deltavariant                             35
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:07:08 -----------
+covid19                                  117
+deltavariant                             35
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:07:10 -----------
+covid19                                  117
+deltavariant                             35
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:07:12 -----------
+covid19                                  117
+deltavariant                             35
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:07:14 -----------
+covid19                                  117
+deltavariant                             36
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:07:16 -----------
+covid19                                  118
+deltavariant                             36
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:07:18 -----------
+covid19                                  118
+deltavariant                             37
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:07:20 -----------
+covid19                                  119
+deltavariant                             37
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:07:22 -----------
+covid19                                  120
+deltavariant                             37
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:07:24 -----------
+covid19                                  120
+deltavariant                             38
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:07:26 -----------
+covid19                                  121
+deltavariant                             38
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:07:28 -----------
+covid19                                  121
+deltavariant                             38
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:07:30 -----------
+covid19                                  121
+deltavariant                             39
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:07:32 -----------
+covid19                                  123
+deltavariant                             39
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:07:34 -----------
+covid19                                  123
+deltavariant                             39
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:07:36 -----------
+covid19                                  123
+deltavariant                             39
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:07:38 -----------
+covid19                                  123
+deltavariant                             39
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:07:40 -----------
+covid19                                  124
+deltavariant                             39
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:07:42 -----------
+covid19                                  124
+deltavariant                             39
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:07:44 -----------
+covid19                                  124
+deltavariant                             39
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:07:46 -----------
+covid19                                  124
+deltavariant                             39
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:07:48 -----------
+covid19                                  124
+deltavariant                             39
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:07:50 -----------
+covid19                                  124
+deltavariant                             39
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:07:52 -----------
+covid19                                  125
+deltavariant                             39
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:07:54 -----------
+covid19                                  126
+deltavariant                             39
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:07:56 -----------
+covid19                                  126
+deltavariant                             39
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:07:58 -----------
+covid19                                  127
+deltavariant                             39
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:08:00 -----------
+covid19                                  127
+deltavariant                             39
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:08:02 -----------
+covid19                                  127
+deltavariant                             39
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:08:04 -----------
+covid19                                  127
+deltavariant                             39
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:08:06 -----------
+covid19                                  128
+deltavariant                             39
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:08:08 -----------
+covid19                                  128
+deltavariant                             39
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:08:10 -----------
+covid19                                  128
+deltavariant                             39
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:08:12 -----------
+covid19                                  128
+deltavariant                             39
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:08:14 -----------
+covid19                                  129
+deltavariant                             39
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:08:16 -----------
+covid19                                  129
+deltavariant                             39
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:08:18 -----------
+covid19                                  129
+deltavariant                             39
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:08:20 -----------
+covid19                                  129
+deltavariant                             39
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:08:22 -----------
+covid19                                  129
+deltavariant                             39
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:08:24 -----------
+covid19                                  131
+deltavariant                             39
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:08:26 -----------
+covid19                                  132
+deltavariant                             39
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:08:28 -----------
+covid19                                  133
+deltavariant                             39
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:08:30 -----------
+covid19                                  133
+deltavariant                             39
+covidvaccine                             8
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:08:32 -----------
+covid19                                  133
+deltavariant                             39
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:08:34 -----------
+covid19                                  134
+deltavariant                             39
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:08:36 -----------
+covid19                                  134
+deltavariant                             39
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:08:38 -----------
+covid19                                  135
+deltavariant                             39
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:08:40 -----------
+covid19                                  135
+deltavariant                             40
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:08:42 -----------
+covid19                                  135
+deltavariant                             40
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:08:44 -----------
+covid19                                  135
+deltavariant                             40
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:08:46 -----------
+covid19                                  135
+deltavariant                             40
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:08:48 -----------
+covid19                                  135
+deltavariant                             40
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:08:50 -----------
+covid19                                  135
+deltavariant                             40
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:08:52 -----------
+covid19                                  135
+deltavariant                             40
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:08:54 -----------
+covid19                                  135
+deltavariant                             40
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:08:56 -----------
+covid19                                  135
+deltavariant                             41
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:08:58 -----------
+covid19                                  136
+deltavariant                             42
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:09:00 -----------
+covid19                                  137
+deltavariant                             42
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:09:02 -----------
+covid19                                  137
+deltavariant                             42
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:09:04 -----------
+covid19                                  138
+deltavariant                             42
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:09:06 -----------
+covid19                                  138
+deltavariant                             42
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:09:08 -----------
+covid19                                  138
+deltavariant                             42
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:09:10 -----------
+covid19                                  138
+deltavariant                             42
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:09:12 -----------
+covid19                                  138
+deltavariant                             42
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:09:14 -----------
+covid19                                  138
+deltavariant                             44
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:09:16 -----------
+covid19                                  139
+deltavariant                             44
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:09:18 -----------
+covid19                                  139
+deltavariant                             44
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:09:20 -----------
+covid19                                  139
+deltavariant                             44
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:09:22 -----------
+covid19                                  139
+deltavariant                             44
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:09:24 -----------
+covid19                                  139
+deltavariant                             44
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:09:26 -----------
+covid19                                  140
+deltavariant                             44
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:09:28 -----------
+covid19                                  141
+deltavariant                             45
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:09:30 -----------
+covid19                                  142
+deltavariant                             45
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:09:32 -----------
+covid19                                  142
+deltavariant                             45
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:09:34 -----------
+covid19                                  143
+deltavariant                             45
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:09:36 -----------
+covid19                                  143
+deltavariant                             45
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:09:38 -----------
+covid19                                  143
+deltavariant                             45
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:09:40 -----------
+covid19                                  144
+deltavariant                             45
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:09:42 -----------
+covid19                                  144
+deltavariant                             45
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:09:44 -----------
+covid19                                  146
+deltavariant                             46
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:09:46 -----------
+covid19                                  146
+deltavariant                             46
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:09:48 -----------
+covid19                                  148
+deltavariant                             46
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:09:50 -----------
+covid19                                  148
+deltavariant                             47
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:09:52 -----------
+covid19                                  148
+deltavariant                             49
+covidvaccine                             9
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:09:54 -----------
+covid19                                  150
+deltavariant                             49
+covidvaccine                             10
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:09:56 -----------
+covid19                                  151
+deltavariant                             49
+covidvaccine                             10
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:09:58 -----------
+covid19                                  151
+deltavariant                             49
+covidvaccine                             10
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:10:00 -----------
+covid19                                  154
+deltavariant                             49
+covidvaccine                             11
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:10:02 -----------
+covid19                                  154
+deltavariant                             49
+covidvaccine                             11
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:10:04 -----------
+covid19                                  154
+deltavariant                             49
+covidvaccine                             11
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:10:06 -----------
+covid19                                  155
+deltavariant                             49
+covidvaccine                             11
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:10:08 -----------
+covid19                                  155
+deltavariant                             49
+covidvaccine                             11
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:10:10 -----------
+covid19                                  155
+deltavariant                             50
+covidvaccine                             11
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:10:12 -----------
+covid19                                  156
+deltavariant                             50
+covidvaccine                             11
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:10:14 -----------
+covid19                                  156
+deltavariant                             50
+covidvaccine                             11
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:10:16 -----------
+covid19                                  156
+deltavariant                             51
+covidvaccine                             11
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:10:18 -----------
+covid19                                  158
+deltavariant                             52
+covidvaccine                             11
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:10:20 -----------
+covid19                                  159
+deltavariant                             52
+covidvaccine                             11
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:10:22 -----------
+covid19                                  159
+deltavariant                             52
+covidvaccine                             11
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:10:24 -----------
+covid19                                  159
+deltavariant                             53
+covidvaccine                             11
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:10:26 -----------
+covid19                                  159
+deltavariant                             53
+covidvaccine                             11
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:10:28 -----------
+covid19                                  159
+deltavariant                             54
+covidvaccine                             11
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:10:30 -----------
+covid19                                  159
+deltavariant                             55
+covidvaccine                             11
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:10:32 -----------
+covid19                                  160
+deltavariant                             55
+covidvaccine                             11
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:10:34 -----------
+covid19                                  160
+deltavariant                             55
+covidvaccine                             11
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:10:36 -----------
+covid19                                  160
+deltavariant                             56
+covidvaccine                             11
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:10:38 -----------
+covid19                                  160
+deltavariant                             56
+covidvaccine                             11
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:10:40 -----------
+covid19                                  160
+deltavariant                             57
+covidvaccine                             11
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:10:42 -----------
+covid19                                  162
+deltavariant                             57
+covidvaccine                             11
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:10:44 -----------
+covid19                                  162
+deltavariant                             57
+covidvaccine                             11
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:10:46 -----------
+covid19                                  162
+deltavariant                             58
+covidvaccine                             11
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:10:48 -----------
+covid19                                  162
+deltavariant                             58
+covidvaccine                             11
+novaccinepassports                       1
+vaccines                                 1
+----------- 2021-06-21 00:10:50 -----------
+covid19                                  163
+deltavariant                             58
+covidvaccine                             11
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:10:52 -----------
+covid19                                  164
+deltavariant                             58
+covidvaccine                             11
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:10:54 -----------
+covid19                                  165
+deltavariant                             58
+covidvaccine                             11
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:10:56 -----------
+covid19                                  165
+deltavariant                             58
+covidvaccine                             11
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:10:58 -----------
+covid19                                  166
+deltavariant                             58
+covidvaccine                             11
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:11:00 -----------
+covid19                                  166
+deltavariant                             58
+covidvaccine                             11
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:11:02 -----------
+covid19                                  166
+deltavariant                             58
+covidvaccine                             11
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:11:04 -----------
+covid19                                  167
+deltavariant                             58
+covidvaccine                             11
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:11:06 -----------
+covid19                                  168
+deltavariant                             58
+covidvaccine                             11
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:11:08 -----------
+covid19                                  168
+deltavariant                             58
+covidvaccine                             11
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:11:10 -----------
+covid19                                  168
+deltavariant                             58
+covidvaccine                             11
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:11:12 -----------
+covid19                                  168
+deltavariant                             58
+covidvaccine                             11
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:11:14 -----------
+covid19                                  168
+deltavariant                             59
+covidvaccine                             11
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:11:16 -----------
+covid19                                  169
+deltavariant                             59
+covidvaccine                             11
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:11:18 -----------
+covid19                                  170
+deltavariant                             59
+covidvaccine                             11
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:11:20 -----------
+covid19                                  171
+deltavariant                             59
+covidvaccine                             11
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:11:22 -----------
+covid19                                  171
+deltavariant                             59
+covidvaccine                             11
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:11:24 -----------
+covid19                                  172
+deltavariant                             59
+covidvaccine                             11
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:11:26 -----------
+covid19                                  172
+deltavariant                             59
+covidvaccine                             11
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:11:28 -----------
+covid19                                  172
+deltavariant                             59
+covidvaccine                             11
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:11:30 -----------
+covid19                                  174
+deltavariant                             59
+covidvaccine                             11
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:11:32 -----------
+covid19                                  174
+deltavariant                             59
+covidvaccine                             11
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:11:34 -----------
+covid19                                  175
+deltavariant                             59
+covidvaccine                             11
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:11:36 -----------
+covid19                                  176
+deltavariant                             59
+covidvaccine                             11
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:11:38 -----------
+covid19                                  176
+deltavariant                             59
+covidvaccine                             11
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:11:40 -----------
+covid19                                  176
+deltavariant                             59
+covidvaccine                             11
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:11:42 -----------
+covid19                                  176
+deltavariant                             59
+covidvaccine                             11
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:11:44 -----------
+covid19                                  177
+deltavariant                             59
+covidvaccine                             11
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:11:46 -----------
+covid19                                  178
+deltavariant                             59
+covidvaccine                             11
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:11:48 -----------
+covid19                                  178
+deltavariant                             59
+covidvaccine                             11
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:11:50 -----------
+covid19                                  178
+deltavariant                             59
+covidvaccine                             11
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:11:52 -----------
+covid19                                  178
+deltavariant                             59
+covidvaccine                             11
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:11:54 -----------
+covid19                                  178
+deltavariant                             59
+covidvaccine                             11
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:11:56 -----------
+covid19                                  179
+deltavariant                             59
+covidvaccine                             11
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:11:58 -----------
+covid19                                  179
+deltavariant                             59
+covidvaccine                             12
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:12:00 -----------
+covid19                                  179
+deltavariant                             59
+covidvaccine                             12
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:12:02 -----------
+covid19                                  179
+deltavariant                             59
+covidvaccine                             12
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:12:04 -----------
+covid19                                  179
+deltavariant                             59
+covidvaccine                             12
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:12:06 -----------
+covid19                                  179
+deltavariant                             59
+covidvaccine                             12
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:12:08 -----------
+covid19                                  180
+deltavariant                             59
+covidvaccine                             12
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:12:10 -----------
+covid19                                  180
+deltavariant                             59
+covidvaccine                             12
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:12:12 -----------
+covid19                                  181
+deltavariant                             59
+covidvaccine                             12
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:12:14 -----------
+covid19                                  182
+deltavariant                             60
+covidvaccine                             12
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:12:16 -----------
+covid19                                  182
+deltavariant                             60
+covidvaccine                             12
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:12:18 -----------
+covid19                                  182
+deltavariant                             60
+covidvaccine                             12
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:12:20 -----------
+covid19                                  182
+deltavariant                             60
+covidvaccine                             12
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:12:22 -----------
+covid19                                  182
+deltavariant                             60
+covidvaccine                             12
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:12:24 -----------
+covid19                                  182
+deltavariant                             60
+covidvaccine                             12
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:12:26 -----------
+covid19                                  183
+deltavariant                             60
+covidvaccine                             12
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:12:28 -----------
+covid19                                  184
+deltavariant                             60
+covidvaccine                             12
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:12:30 -----------
+covid19                                  186
+deltavariant                             61
+covidvaccine                             12
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:12:32 -----------
+covid19                                  186
+deltavariant                             61
+covidvaccine                             12
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:12:34 -----------
+covid19                                  186
+deltavariant                             61
+covidvaccine                             12
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:12:36 -----------
+covid19                                  186
+deltavariant                             61
+covidvaccine                             12
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:12:38 -----------
+covid19                                  186
+deltavariant                             61
+covidvaccine                             12
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:12:40 -----------
+covid19                                  186
+deltavariant                             61
+covidvaccine                             12
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:12:42 -----------
+covid19                                  186
+deltavariant                             61
+covidvaccine                             12
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:12:44 -----------
+covid19                                  189
+deltavariant                             61
+covidvaccine                             12
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:12:46 -----------
+covid19                                  189
+deltavariant                             62
+covidvaccine                             12
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:12:48 -----------
+covid19                                  189
+deltavariant                             63
+covidvaccine                             12
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:12:50 -----------
+covid19                                  189
+deltavariant                             64
+covidvaccine                             12
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:12:52 -----------
+covid19                                  190
+deltavariant                             64
+covidvaccine                             12
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:12:54 -----------
+covid19                                  190
+deltavariant                             65
+covidvaccine                             12
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:12:56 -----------
+covid19                                  190
+deltavariant                             65
+covidvaccine                             13
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:12:58 -----------
+covid19                                  191
+deltavariant                             66
+covidvaccine                             13
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:13:00 -----------
+covid19                                  192
+deltavariant                             66
+covidvaccine                             13
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:13:02 -----------
+covid19                                  193
+deltavariant                             66
+covidvaccine                             13
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:13:04 -----------
+covid19                                  193
+deltavariant                             66
+covidvaccine                             13
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:13:06 -----------
+covid19                                  193
+deltavariant                             66
+covidvaccine                             14
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:13:08 -----------
+covid19                                  193
+deltavariant                             66
+covidvaccine                             14
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:13:10 -----------
+covid19                                  193
+deltavariant                             66
+covidvaccine                             14
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:13:12 -----------
+covid19                                  193
+deltavariant                             66
+covidvaccine                             14
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:13:14 -----------
+covid19                                  193
+deltavariant                             66
+covidvaccine                             14
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:13:16 -----------
+covid19                                  193
+deltavariant                             66
+covidvaccine                             14
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:13:18 -----------
+covid19                                  193
+deltavariant                             66
+covidvaccine                             14
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:13:20 -----------
+covid19                                  194
+deltavariant                             66
+covidvaccine                             14
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:13:22 -----------
+covid19                                  194
+deltavariant                             66
+covidvaccine                             14
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:13:24 -----------
+covid19                                  194
+deltavariant                             66
+covidvaccine                             14
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:13:26 -----------
+covid19                                  194
+deltavariant                             66
+covidvaccine                             14
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:13:28 -----------
+covid19                                  196
+deltavariant                             66
+covidvaccine                             14
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:13:30 -----------
+covid19                                  196
+deltavariant                             66
+covidvaccine                             14
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:13:32 -----------
+covid19                                  196
+deltavariant                             66
+covidvaccine                             14
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:13:34 -----------
+covid19                                  197
+deltavariant                             67
+covidvaccine                             14
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:13:36 -----------
+covid19                                  200
+deltavariant                             67
+covidvaccine                             14
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:13:38 -----------
+covid19                                  200
+deltavariant                             67
+covidvaccine                             14
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:13:40 -----------
+covid19                                  200
+deltavariant                             67
+covidvaccine                             14
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:13:42 -----------
+covid19                                  200
+deltavariant                             67
+covidvaccine                             14
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:13:44 -----------
+covid19                                  201
+deltavariant                             67
+covidvaccine                             14
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:13:46 -----------
+covid19                                  201
+deltavariant                             68
+covidvaccine                             14
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:13:48 -----------
+covid19                                  201
+deltavariant                             68
+covidvaccine                             14
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:13:50 -----------
+covid19                                  201
+deltavariant                             68
+covidvaccine                             14
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:13:52 -----------
+covid19                                  201
+deltavariant                             68
+covidvaccine                             14
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:13:54 -----------
+covid19                                  202
+deltavariant                             68
+covidvaccine                             14
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:13:56 -----------
+covid19                                  203
+deltavariant                             68
+covidvaccine                             14
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:13:58 -----------
+covid19                                  203
+deltavariant                             68
+covidvaccine                             14
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:14:00 -----------
+covid19                                  204
+deltavariant                             68
+covidvaccine                             14
+vaccines                                 2
+novaccinepassports                       1
+----------- 2021-06-21 00:14:02 -----------
+covid19                                  205
+deltavariant                             68
+covidvaccine                             14
+vaccines                                 3
+novaccinepassports                       1
+----------- 2021-06-23 16:57:06 -----------
+----------- 2021-06-23 16:57:08 -----------
+covid19                                  4
+----------- 2021-06-23 16:57:10 -----------
+covid19                                  7
+----------- 2021-06-23 16:57:12 -----------
+covid19                                  8
+----------- 2021-06-23 16:57:14 -----------
+covid19                                  10
+deltavariant                             1
+----------- 2021-06-23 16:57:16 -----------
+covid19                                  12
+deltavariant                             1
+----------- 2021-06-23 16:57:18 -----------
+covid19                                  13
+deltavariant                             1
+----------- 2021-06-23 16:57:20 -----------
+covid19                                  15
+deltavariant                             1
+----------- 2021-06-23 16:57:22 -----------
+covid19                                  17
+deltavariant                             1
+----------- 2021-06-23 16:57:24 -----------
+covid19                                  17
+deltavariant                             1
+----------- 2021-06-23 16:57:26 -----------
+covid19                                  17
+deltavariant                             2
+----------- 2021-06-23 16:57:28 -----------
+covid19                                  21
+deltavariant                             2
+----------- 2021-06-23 16:57:30 -----------
+covid19                                  22
+deltavariant                             3
+----------- 2021-06-23 16:57:32 -----------
+covid19                                  23
+deltavariant                             3
+covidvaccine                             1
+----------- 2021-06-23 16:57:34 -----------
+covid19                                  23
+deltavariant                             4
+covidvaccine                             1
+----------- 2021-06-23 16:57:36 -----------
+covid19                                  23
+deltavariant                             5
+covidvaccine                             1
+----------- 2021-06-23 16:57:38 -----------
+covid19                                  26
+deltavariant                             5
+covidvaccine                             1
+----------- 2021-06-23 16:57:40 -----------
+covid19                                  27
+deltavariant                             5
+covidvaccine                             1
+----------- 2021-06-23 16:57:42 -----------
+covid19                                  29
+deltavariant                             6
+covidvaccine                             1
+----------- 2021-06-23 16:57:44 -----------
+covid19                                  32
+deltavariant                             7
+covidvaccine                             1
+----------- 2021-06-23 16:57:46 -----------
+covid19                                  34
+deltavariant                             8
+covidvaccine                             1
+----------- 2021-06-23 16:57:48 -----------
+covid19                                  37
+deltavariant                             8
+covidvaccine                             1
+----------- 2021-06-23 16:57:50 -----------
+covid19                                  37
+deltavariant                             9
+covidvaccine                             1
+----------- 2021-06-23 16:57:52 -----------
+covid19                                  38
+deltavariant                             10
+covidvaccine                             1
+----------- 2021-06-23 16:57:54 -----------
+covid19                                  38
+deltavariant                             10
+covidvaccine                             1
+----------- 2021-06-23 16:57:56 -----------
+covid19                                  40
+deltavariant                             10
+covidvaccine                             1
+----------- 2021-06-23 16:57:58 -----------
+covid19                                  42
+deltavariant                             10
+covidvaccine                             1
+----------- 2021-06-23 16:58:00 -----------
+covid19                                  44
+deltavariant                             10
+covidvaccine                             1
+----------- 2021-06-23 16:58:02 -----------
+covid19                                  47
+deltavariant                             11
+covidvaccine                             1
+----------- 2021-06-23 16:58:04 -----------
+covid19                                  50
+deltavariant                             11
+covidvaccine                             1
+----------- 2021-06-23 16:58:06 -----------
+covid19                                  51
+deltavariant                             11
+covidvaccine                             1
+----------- 2021-06-23 16:58:08 -----------
+covid19                                  52
+deltavariant                             11
+covidvaccine                             1
+----------- 2021-06-23 16:58:10 -----------
+covid19                                  54
+deltavariant                             11
+covidvaccine                             2
+----------- 2021-06-23 16:58:12 -----------
+covid19                                  55
+deltavariant                             13
+covidvaccine                             2
+----------- 2021-06-23 16:58:14 -----------
+covid19                                  55
+deltavariant                             13
+covidvaccine                             2
+----------- 2021-06-23 16:58:16 -----------
+covid19                                  59
+deltavariant                             13
+covidvaccine                             2
+----------- 2021-06-23 16:58:18 -----------
+covid19                                  61
+deltavariant                             13
+covidvaccine                             2
+----------- 2021-06-23 16:58:20 -----------
+covid19                                  63
+deltavariant                             13
+covidvaccine                             2
+----------- 2021-06-23 16:58:22 -----------
+covid19                                  65
+deltavariant                             14
+covidvaccine                             3
+----------- 2021-06-23 16:58:24 -----------
+covid19                                  67
+deltavariant                             15
+covidvaccine                             3
+----------- 2021-06-23 16:58:26 -----------
+covid19                                  68
+deltavariant                             15
+covidvaccine                             3
+----------- 2021-06-23 16:58:28 -----------
+covid19                                  69
+deltavariant                             15
+covidvaccine                             3
+----------- 2021-06-23 16:58:30 -----------
+covid19                                  69
+deltavariant                             15
+covidvaccine                             3
+----------- 2021-06-23 16:58:32 -----------
+covid19                                  70
+deltavariant                             15
+covidvaccine                             3
+----------- 2021-06-23 16:58:34 -----------
+covid19                                  72
+deltavariant                             15
+covidvaccine                             3
+----------- 2021-06-23 16:58:36 -----------
+covid19                                  76
+deltavariant                             15
+covidvaccine                             3
+----------- 2021-06-23 16:58:38 -----------
+covid19                                  79
+deltavariant                             15
+covidvaccine                             3
+----------- 2021-06-23 16:58:40 -----------
+covid19                                  80
+deltavariant                             15
+covidvaccine                             3
+----------- 2021-06-23 16:58:42 -----------
+covid19                                  83
+deltavariant                             16
+covidvaccine                             3
+----------- 2021-06-23 16:58:44 -----------
+covid19                                  85
+deltavariant                             16
+covidvaccine                             3
+----------- 2021-06-23 16:58:46 -----------
+covid19                                  87
+deltavariant                             16
+covidvaccine                             3
+----------- 2021-06-23 16:58:48 -----------
+covid19                                  88
+deltavariant                             16
+covidvaccine                             3
+----------- 2021-06-23 16:58:50 -----------
+covid19                                  91
+deltavariant                             17
+covidvaccine                             3
+----------- 2021-06-23 16:58:52 -----------
+covid19                                  93
+deltavariant                             17
+covidvaccine                             4
+----------- 2021-06-23 16:58:54 -----------
+covid19                                  97
+deltavariant                             17
+covidvaccine                             4
+----------- 2021-06-23 16:58:56 -----------
+covid19                                  101
+deltavariant                             17
+covidvaccine                             4
+----------- 2021-06-23 16:58:58 -----------
+covid19                                  102
+deltavariant                             17
+covidvaccine                             4
+----------- 2021-06-23 16:59:00 -----------
+covid19                                  104
+deltavariant                             17
+covidvaccine                             4
+----------- 2021-06-23 16:59:02 -----------
+covid19                                  109
+deltavariant                             18
+covidvaccine                             4
+----------- 2021-06-23 16:59:04 -----------
+covid19                                  111
+deltavariant                             18
+covidvaccine                             5
+----------- 2021-06-23 16:59:06 -----------
+covid19                                  113
+deltavariant                             20
+covidvaccine                             6
+----------- 2021-06-23 16:59:08 -----------
+covid19                                  116
+deltavariant                             20
+covidvaccine                             6
+----------- 2021-06-23 16:59:10 -----------
+covid19                                  117
+deltavariant                             20
+covidvaccine                             6
+----------- 2021-06-23 17:44:10 -----------
+----------- 2021-06-23 17:44:12 -----------
+----------- 2021-06-23 17:44:14 -----------
+----------- 2021-06-23 17:44:16 -----------
+----------- 2021-06-23 17:44:18 -----------
+----------- 2021-06-23 17:44:20 -----------
+----------- 2021-06-23 17:44:22 -----------
+----------- 2021-06-23 17:44:24 -----------
+----------- 2021-06-23 17:44:26 -----------
+----------- 2021-06-23 17:44:28 -----------
+----------- 2021-06-23 17:44:30 -----------
+----------- 2021-06-23 17:44:32 -----------
+----------- 2021-06-23 17:44:34 -----------
+----------- 2021-06-23 17:44:36 -----------
+----------- 2021-06-23 17:44:38 -----------
+----------- 2021-06-23 17:44:40 -----------
+----------- 2021-06-23 17:47:32 -----------
+----------- 2021-06-23 17:47:34 -----------
+covid19                                  2
+----------- 2021-06-23 17:47:36 -----------
+covid19                                  6
+----------- 2021-06-23 17:47:38 -----------
+covid19                                  9
+----------- 2021-06-23 17:47:40 -----------
+covid19                                  10
+----------- 2021-06-23 17:47:42 -----------
+covid19                                  14
+deltavariant                             1
+----------- 2021-06-23 17:47:44 -----------
+covid19                                  18
+deltavariant                             2
+----------- 2021-06-23 17:47:46 -----------
+covid19                                  21
+deltavariant                             2
+----------- 2021-06-23 17:47:48 -----------
+covid19                                  24
+deltavariant                             2
+----------- 2021-06-23 17:47:50 -----------
+covid19                                  25
+deltavariant                             2
+----------- 2021-06-23 17:47:52 -----------
+covid19                                  27
+deltavariant                             3
+----------- 2021-06-23 17:47:54 -----------
+covid19                                  28
+deltavariant                             4
+----------- 2021-06-23 17:47:56 -----------
+covid19                                  29
+deltavariant                             4
+----------- 2021-06-23 17:47:58 -----------
+covid19                                  30
+deltavariant                             4
+covidvaccine                             1
+----------- 2021-06-23 17:48:00 -----------
+covid19                                  33
+deltavariant                             4
+covidvaccine                             1
+----------- 2021-06-23 17:48:02 -----------
+covid19                                  37
+deltavariant                             5
+covidvaccine                             1
+----------- 2021-06-23 17:48:04 -----------
+covid19                                  40
+deltavariant                             5
+covidvaccine                             2
+----------- 2021-06-23 17:48:06 -----------
+covid19                                  42
+deltavariant                             6
+covidvaccine                             3
+----------- 2021-06-23 17:48:08 -----------
+covid19                                  43
+deltavariant                             7
+covidvaccine                             3
+----------- 2021-06-23 17:48:10 -----------
+covid19                                  44
+deltavariant                             7
+covidvaccine                             3
+----------- 2021-06-23 17:48:12 -----------
+covid19                                  45
+deltavariant                             8
+covidvaccine                             3
+----------- 2021-06-23 17:48:14 -----------
+covid19                                  45
+deltavariant                             8
+covidvaccine                             3
+----------- 2021-06-23 17:48:16 -----------
+covid19                                  49
+deltavariant                             8
+covidvaccine                             3
+----------- 2021-06-23 17:48:18 -----------
+covid19                                  50
+deltavariant                             8
+covidvaccine                             3
+----------- 2021-06-23 17:48:20 -----------
+covid19                                  52
+deltavariant                             9
+covidvaccine                             4
+----------- 2021-06-23 17:48:22 -----------
+covid19                                  55
+deltavariant                             9
+covidvaccine                             4
+----------- 2021-06-23 17:48:24 -----------
+covid19                                  56
+deltavariant                             11
+covidvaccine                             4
+----------- 2021-06-23 17:48:26 -----------
+covid19                                  59
+deltavariant                             11
+covidvaccine                             4
+----------- 2021-06-23 17:48:28 -----------
+covid19                                  61
+deltavariant                             11
+covidvaccine                             4
+----------- 2021-06-23 17:48:30 -----------
+covid19                                  62
+deltavariant                             11
+covidvaccine                             5
+----------- 2021-06-23 17:48:32 -----------
+covid19                                  65
+deltavariant                             11
+covidvaccine                             5
+----------- 2021-06-23 17:48:34 -----------
+covid19                                  67
+deltavariant                             11
+covidvaccine                             6
+----------- 2021-06-23 17:48:36 -----------
+covid19                                  71
+deltavariant                             12
+covidvaccine                             6
+----------- 2021-06-23 17:48:38 -----------
+covid19                                  75
+deltavariant                             12
+covidvaccine                             6
+----------- 2021-06-23 17:48:40 -----------
+covid19                                  80
+deltavariant                             12
+covidvaccine                             6
+----------- 2021-06-23 17:48:42 -----------
+covid19                                  84
+deltavariant                             12
+covidvaccine                             6
+----------- 2021-06-23 17:48:44 -----------
+covid19                                  88
+deltavariant                             12
+covidvaccine                             6
+----------- 2021-06-23 17:48:46 -----------
+covid19                                  91
+deltavariant                             12
+covidvaccine                             6
+----------- 2021-06-23 17:48:48 -----------
+covid19                                  93
+deltavariant                             12
+covidvaccine                             8
+----------- 2021-06-23 17:48:50 -----------
+covid19                                  99
+deltavariant                             12
+covidvaccine                             8
+----------- 2021-06-23 17:48:52 -----------
+covid19                                  104
+deltavariant                             12
+covidvaccine                             9
+----------- 2021-06-23 17:48:54 -----------
+covid19                                  105
+deltavariant                             12
+covidvaccine                             9
+----------- 2021-06-23 17:48:56 -----------
+covid19                                  109
+deltavariant                             13
+covidvaccine                             9
+----------- 2021-06-23 17:48:58 -----------
+covid19                                  113
+deltavariant                             13
+covidvaccine                             9
+----------- 2021-06-23 17:49:00 -----------
+covid19                                  118
+deltavariant                             13
+covidvaccine                             9
+vaccines                                 1
+----------- 2021-06-23 17:49:02 -----------
+covid19                                  119
+deltavariant                             14
+covidvaccine                             9
+vaccines                                 1
+----------- 2021-06-23 17:49:04 -----------
+covid19                                  120
+deltavariant                             14
+covidvaccine                             9
+vaccines                                 1
+----------- 2021-06-23 17:49:06 -----------
+covid19                                  122
+deltavariant                             15
+covidvaccine                             9
+vaccines                                 1
+----------- 2021-06-23 17:49:08 -----------
+covid19                                  125
+deltavariant                             15
+covidvaccine                             9
+vaccines                                 1
+----------- 2021-06-23 17:49:10 -----------
+covid19                                  125
+deltavariant                             15
+covidvaccine                             9
+vaccines                                 1
+----------- 2021-06-23 17:49:12 -----------
+covid19                                  128
+deltavariant                             15
+covidvaccine                             9
+vaccines                                 1
+----------- 2021-06-23 17:49:14 -----------
+covid19                                  130
+deltavariant                             17
+covidvaccine                             9
+vaccines                                 1
+----------- 2021-06-23 17:49:16 -----------
+covid19                                  133
+deltavariant                             17
+covidvaccine                             9
+vaccines                                 1
+----------- 2021-06-23 17:49:18 -----------
+covid19                                  136
+deltavariant                             17
+covidvaccine                             9
+vaccines                                 1
+----------- 2021-06-23 17:49:20 -----------
+covid19                                  140
+deltavariant                             17
+covidvaccine                             9
+vaccines                                 1
+----------- 2021-06-23 17:49:22 -----------
+covid19                                  141
+deltavariant                             17
+covidvaccine                             9
+vaccines                                 1
+----------- 2021-06-23 17:49:24 -----------
+covid19                                  143
+deltavariant                             17
+covidvaccine                             10
+vaccines                                 1
+----------- 2021-06-23 17:49:26 -----------
+covid19                                  146
+deltavariant                             17
+covidvaccine                             10
+vaccines                                 1
+----------- 2021-06-23 17:49:28 -----------
+covid19                                  150
+deltavariant                             17
+covidvaccine                             10
+vaccines                                 1
+----------- 2021-06-23 17:49:30 -----------
+covid19                                  155
+deltavariant                             17
+covidvaccine                             11
+vaccines                                 1
+----------- 2021-06-23 17:49:32 -----------
+covid19                                  157
+deltavariant                             17
+covidvaccine                             11
+vaccines                                 1
+----------- 2021-06-23 17:49:34 -----------
+covid19                                  161
+deltavariant                             17
+covidvaccine                             11
+vaccines                                 1
+----------- 2021-06-23 17:49:36 -----------
+covid19                                  162
+deltavariant                             18
+covidvaccine                             11
+vaccines                                 1
+----------- 2021-06-23 17:49:38 -----------
+covid19                                  168
+deltavariant                             18
+covidvaccine                             11
+vaccines                                 1
+----------- 2021-06-23 17:49:40 -----------
+covid19                                  169
+deltavariant                             18
+covidvaccine                             11
+vaccines                                 1
+----------- 2021-06-23 17:49:42 -----------
+covid19                                  172
+deltavariant                             18
+covidvaccine                             11
+vaccines                                 1
+----------- 2021-06-23 17:49:44 -----------
+covid19                                  176
+deltavariant                             18
+covidvaccine                             11
+vaccines                                 1
+----------- 2021-06-23 17:49:46 -----------
+covid19                                  177
+deltavariant                             18
+covidvaccine                             12
+vaccines                                 1
+----------- 2021-06-23 17:49:48 -----------
+covid19                                  181
+deltavariant                             18
+covidvaccine                             12
+vaccines                                 1
+----------- 2021-06-23 17:49:50 -----------
+covid19                                  185
+deltavariant                             18
+covidvaccine                             12
+vaccines                                 1
+----------- 2021-06-23 17:49:52 -----------
+covid19                                  186
+deltavariant                             18
+covidvaccine                             12
+vaccines                                 1
+----------- 2021-06-23 17:49:54 -----------
+covid19                                  187
+deltavariant                             18
+covidvaccine                             12
+vaccines                                 1
+----------- 2021-06-23 17:49:56 -----------
+covid19                                  190
+deltavariant                             19
+covidvaccine                             12
+vaccines                                 1
+----------- 2021-06-23 17:49:58 -----------
+covid19                                  190
+deltavariant                             19
+covidvaccine                             12
+vaccines                                 1
+----------- 2021-06-23 17:50:00 -----------
+covid19                                  192
+deltavariant                             20
+covidvaccine                             12
+vaccines                                 1
+----------- 2021-06-23 17:50:02 -----------
+covid19                                  194
+deltavariant                             20
+covidvaccine                             12
+vaccines                                 1
+----------- 2021-06-23 17:50:04 -----------
+covid19                                  197
+deltavariant                             21
+covidvaccine                             12
+vaccines                                 1
+----------- 2021-06-23 17:50:06 -----------
+covid19                                  198
+deltavariant                             21
+covidvaccine                             12
+vaccines                                 1
+----------- 2021-06-23 17:50:08 -----------
+covid19                                  199
+deltavariant                             21
+covidvaccine                             12
+vaccines                                 1
+----------- 2021-06-23 17:50:10 -----------
+covid19                                  202
+deltavariant                             21
+covidvaccine                             12
+vaccines                                 1
+----------- 2021-06-23 17:50:12 -----------
+covid19                                  203
+deltavariant                             21
+covidvaccine                             12
+vaccines                                 2
+----------- 2021-06-23 17:50:14 -----------
+covid19                                  206
+deltavariant                             23
+covidvaccine                             12
+vaccines                                 2
+----------- 2021-06-23 17:50:16 -----------
+covid19                                  207
+deltavariant                             23
+covidvaccine                             12
+vaccines                                 2
+----------- 2021-06-23 17:50:18 -----------
+covid19                                  211
+deltavariant                             23
+covidvaccine                             12
+vaccines                                 2
+----------- 2021-06-23 17:50:20 -----------
+covid19                                  213
+deltavariant                             23
+covidvaccine                             12
+vaccines                                 2
+----------- 2021-06-23 17:50:22 -----------
+covid19                                  216
+deltavariant                             23
+covidvaccine                             14
+vaccines                                 2
+----------- 2021-06-23 17:50:24 -----------
+covid19                                  220
+deltavariant                             23
+covidvaccine                             15
+vaccines                                 2
+----------- 2021-06-23 17:50:26 -----------
+covid19                                  223
+deltavariant                             23
+covidvaccine                             15
+vaccines                                 2
+----------- 2021-06-23 17:50:28 -----------
+covid19                                  224
+deltavariant                             23
+covidvaccine                             15
+vaccines                                 2
+----------- 2021-06-23 17:50:30 -----------
+covid19                                  226
+deltavariant                             25
+covidvaccine                             15
+vaccines                                 2
+----------- 2021-06-23 17:50:32 -----------
+covid19                                  227
+deltavariant                             26
+covidvaccine                             15
+vaccines                                 2
+----------- 2021-06-23 17:50:34 -----------
+covid19                                  230
+deltavariant                             27
+covidvaccine                             15
+vaccines                                 2
+----------- 2021-06-23 17:50:36 -----------
+covid19                                  233
+deltavariant                             27
+covidvaccine                             15
+vaccines                                 2
+----------- 2021-06-23 17:50:38 -----------
+covid19                                  239
+deltavariant                             27
+covidvaccine                             15
+vaccines                                 2
+----------- 2021-06-23 17:50:40 -----------
+covid19                                  240
+deltavariant                             27
+covidvaccine                             15
+vaccines                                 2
+----------- 2021-06-23 17:50:42 -----------
+covid19                                  241
+deltavariant                             27
+covidvaccine                             15
+vaccines                                 2
+----------- 2021-06-23 17:50:44 -----------
+covid19                                  243
+deltavariant                             28
+covidvaccine                             15
+vaccines                                 2
+----------- 2021-06-23 17:50:46 -----------
+covid19                                  246
+deltavariant                             28
+covidvaccine                             15
+vaccines                                 2
+----------- 2021-06-23 17:50:48 -----------
+covid19                                  248
+deltavariant                             28
+covidvaccine                             15
+vaccines                                 2
+----------- 2021-06-23 17:50:50 -----------
+covid19                                  249
+deltavariant                             28
+covidvaccine                             15
+vaccines                                 2
+----------- 2021-06-23 17:50:52 -----------
+covid19                                  251
+deltavariant                             29
+covidvaccine                             15
+vaccines                                 2
+----------- 2021-06-23 17:50:54 -----------
+covid19                                  252
+deltavariant                             29
+covidvaccine                             15
+vaccines                                 2
+----------- 2021-06-23 17:50:56 -----------
+covid19                                  254
+deltavariant                             29
+covidvaccine                             15
+vaccines                                 2
+----------- 2021-06-23 17:50:58 -----------
+covid19                                  257
+deltavariant                             29
+covidvaccine                             15
+vaccines                                 2
+----------- 2021-06-23 17:51:00 -----------
+covid19                                  257
+deltavariant                             29
+covidvaccine                             15
+vaccines                                 2
+----------- 2021-06-23 17:51:02 -----------
+covid19                                  259
+deltavariant                             29
+covidvaccine                             15
+vaccines                                 2
+----------- 2021-06-23 17:51:04 -----------
+covid19                                  261
+deltavariant                             29
+covidvaccine                             15
+vaccines                                 2
+----------- 2021-06-23 17:51:06 -----------
+covid19                                  263
+deltavariant                             29
+covidvaccine                             15
+vaccines                                 2
+----------- 2021-06-23 17:51:08 -----------
+covid19                                  264
+deltavariant                             29
+covidvaccine                             15
+vaccines                                 2
+----------- 2021-06-23 17:51:10 -----------
+covid19                                  266
+deltavariant                             30
+covidvaccine                             15
+vaccines                                 2
+----------- 2021-06-23 17:51:12 -----------
+covid19                                  267
+deltavariant                             30
+covidvaccine                             15
+vaccines                                 2
+----------- 2021-06-23 17:51:14 -----------
+covid19                                  268
+deltavariant                             31
+covidvaccine                             15
+vaccines                                 2
+----------- 2021-06-23 17:51:16 -----------
+covid19                                  270
+deltavariant                             32
+covidvaccine                             16
+vaccines                                 2
+----------- 2021-06-23 17:51:18 -----------
+covid19                                  271
+deltavariant                             32
+covidvaccine                             16
+vaccines                                 2
+----------- 2021-06-23 17:51:20 -----------
+covid19                                  274
+deltavariant                             32
+covidvaccine                             16
+vaccines                                 2
+----------- 2021-06-23 17:51:22 -----------
+covid19                                  275
+deltavariant                             32
+covidvaccine                             16
+vaccines                                 2
+----------- 2021-06-23 17:51:24 -----------
+covid19                                  275
+deltavariant                             32
+covidvaccine                             16
+vaccines                                 2
+----------- 2021-06-23 17:51:26 -----------
+covid19                                  276
+deltavariant                             33
+covidvaccine                             16
+vaccines                                 2
+----------- 2021-06-23 17:51:28 -----------
+covid19                                  277
+deltavariant                             35
+covidvaccine                             16
+vaccines                                 2
+----------- 2021-06-23 17:51:30 -----------
+covid19                                  278
+deltavariant                             35
+covidvaccine                             16
+vaccines                                 2
+----------- 2021-06-23 17:51:32 -----------
+covid19                                  279
+deltavariant                             36
+covidvaccine                             16
+vaccines                                 2
+----------- 2021-06-23 17:51:34 -----------
+covid19                                  280
+deltavariant                             36
+covidvaccine                             16
+vaccines                                 2
+----------- 2021-06-23 17:51:36 -----------
+covid19                                  286
+deltavariant                             36
+covidvaccine                             16
+vaccines                                 2
+----------- 2021-06-23 17:51:38 -----------
+covid19                                  289
+deltavariant                             37
+covidvaccine                             16
+vaccines                                 2
+----------- 2021-06-23 17:51:40 -----------
+covid19                                  290
+deltavariant                             37
+covidvaccine                             16
+vaccines                                 2
+----------- 2021-06-23 17:51:42 -----------
+covid19                                  293
+deltavariant                             37
+covidvaccine                             16
+vaccines                                 2
+----------- 2021-06-23 17:51:44 -----------
+covid19                                  296
+deltavariant                             37
+covidvaccine                             16
+vaccines                                 2
+----------- 2021-06-23 17:51:46 -----------
+covid19                                  298
+deltavariant                             38
+covidvaccine                             16
+vaccines                                 2
+----------- 2021-06-23 17:51:48 -----------
+covid19                                  299
+deltavariant                             38
+covidvaccine                             16
+vaccines                                 2
+----------- 2021-06-23 17:51:50 -----------
+covid19                                  301
+deltavariant                             38
+covidvaccine                             16
+vaccines                                 2
+----------- 2021-06-23 17:51:52 -----------
+covid19                                  301
+deltavariant                             38
+covidvaccine                             16
+vaccines                                 2
+----------- 2021-06-23 17:51:54 -----------
+covid19                                  306
+deltavariant                             38
+covidvaccine                             16
+vaccines                                 2
+----------- 2021-06-23 17:51:56 -----------
+covid19                                  307
+deltavariant                             38
+covidvaccine                             16
+vaccines                                 2
+----------- 2021-06-23 17:51:58 -----------
+covid19                                  308
+deltavariant                             38
+covidvaccine                             17
+vaccines                                 2
+----------- 2021-06-23 17:52:00 -----------
+covid19                                  308
+deltavariant                             38
+covidvaccine                             18
+vaccines                                 2
+----------- 2021-06-23 17:52:02 -----------
+covid19                                  313
+deltavariant                             38
+covidvaccine                             18
+vaccines                                 2
+----------- 2021-06-23 17:52:04 -----------
+covid19                                  318
+deltavariant                             38
+covidvaccine                             18
+vaccines                                 2
+----------- 2021-06-23 17:52:06 -----------
+covid19                                  321
+deltavariant                             38
+covidvaccine                             18
+vaccines                                 2
+----------- 2021-06-23 17:52:08 -----------
+covid19                                  323
+deltavariant                             38
+covidvaccine                             18
+vaccines                                 2
+----------- 2021-06-23 17:52:10 -----------
+covid19                                  324
+deltavariant                             38
+covidvaccine                             18
+vaccines                                 3
+----------- 2021-06-23 17:52:12 -----------
+covid19                                  330
+deltavariant                             38
+covidvaccine                             18
+vaccines                                 3
+----------- 2021-06-23 17:52:14 -----------
+covid19                                  333
+deltavariant                             38
+covidvaccine                             18
+vaccines                                 3
+----------- 2021-06-23 17:52:16 -----------
+covid19                                  334
+deltavariant                             39
+covidvaccine                             18
+vaccines                                 3
+----------- 2021-06-23 17:52:18 -----------
+covid19                                  338
+deltavariant                             39
+covidvaccine                             18
+vaccines                                 3
+----------- 2021-06-23 17:52:20 -----------
+covid19                                  340
+deltavariant                             40
+covidvaccine                             18
+vaccines                                 4
+----------- 2021-06-23 17:52:22 -----------
+covid19                                  340
+deltavariant                             40
+covidvaccine                             18
+vaccines                                 4
+----------- 2021-06-23 17:52:24 -----------
+covid19                                  342
+deltavariant                             42
+covidvaccine                             18
+vaccines                                 4
+----------- 2021-06-23 17:52:26 -----------
+covid19                                  345
+deltavariant                             42
+covidvaccine                             18
+vaccines                                 4
+----------- 2021-06-23 17:52:28 -----------
+covid19                                  350
+deltavariant                             42
+covidvaccine                             18
+vaccines                                 4
+----------- 2021-06-23 17:52:30 -----------
+covid19                                  351
+deltavariant                             42
+covidvaccine                             18
+vaccines                                 4
+----------- 2021-06-23 17:52:32 -----------
+covid19                                  355
+deltavariant                             43
+covidvaccine                             18
+vaccines                                 4
+----------- 2021-06-23 17:52:34 -----------
+covid19                                  362
+deltavariant                             45
+covidvaccine                             18
+vaccines                                 4
+----------- 2021-06-23 17:52:36 -----------
+covid19                                  363
+deltavariant                             45
+covidvaccine                             18
+vaccines                                 4
+----------- 2021-06-23 17:52:38 -----------
+covid19                                  368
+deltavariant                             45
+covidvaccine                             18
+vaccines                                 4
+----------- 2021-06-23 17:52:40 -----------
+covid19                                  370
+deltavariant                             45
+covidvaccine                             18
+vaccines                                 4
+----------- 2021-06-23 17:52:42 -----------
+covid19                                  373
+deltavariant                             47
+covidvaccine                             19
+vaccines                                 4
+----------- 2021-06-23 17:52:44 -----------
+covid19                                  373
+deltavariant                             47
+covidvaccine                             19
+vaccines                                 4
+----------- 2021-06-23 17:52:46 -----------
+covid19                                  376
+deltavariant                             47
+covidvaccine                             19
+vaccines                                 4
+----------- 2021-06-23 17:52:48 -----------
+covid19                                  379
+deltavariant                             48
+covidvaccine                             19
+vaccines                                 4
+----------- 2021-06-23 17:52:50 -----------
+covid19                                  384
+deltavariant                             49
+covidvaccine                             19
+vaccines                                 4
+----------- 2021-06-23 17:52:52 -----------
+covid19                                  389
+deltavariant                             49
+covidvaccine                             19
+vaccines                                 4
+----------- 2021-06-23 17:52:54 -----------
+covid19                                  391
+deltavariant                             49
+covidvaccine                             19
+vaccines                                 4
+----------- 2021-06-23 17:52:56 -----------
+covid19                                  392
+deltavariant                             49
+covidvaccine                             19
+vaccines                                 4
+----------- 2021-06-23 17:52:58 -----------
+covid19                                  397
+deltavariant                             49
+covidvaccine                             20
+vaccines                                 4
+----------- 2021-06-23 17:53:00 -----------
+covid19                                  398
+deltavariant                             49
+covidvaccine                             21
+vaccines                                 4
+----------- 2021-06-23 17:53:02 -----------
+covid19                                  402
+deltavariant                             49
+covidvaccine                             21
+vaccines                                 4
+----------- 2021-06-23 17:53:04 -----------
+covid19                                  405
+deltavariant                             51
+covidvaccine                             21
+vaccines                                 4
+----------- 2021-06-23 17:53:06 -----------
+covid19                                  407
+deltavariant                             52
+covidvaccine                             21
+vaccines                                 4
+----------- 2021-06-23 17:53:08 -----------
+covid19                                  408
+deltavariant                             52
+covidvaccine                             21
+vaccines                                 4
+----------- 2021-06-23 17:53:10 -----------
+covid19                                  412
+deltavariant                             53
+covidvaccine                             21
+vaccines                                 4
+----------- 2021-06-23 17:53:12 -----------
+covid19                                  415
+deltavariant                             53
+covidvaccine                             21
+vaccines                                 4
+----------- 2021-06-23 17:53:14 -----------
+covid19                                  418
+deltavariant                             55
+covidvaccine                             21
+vaccines                                 4
+----------- 2021-06-23 17:53:16 -----------
+covid19                                  419
+deltavariant                             55
+covidvaccine                             21
+vaccines                                 4
+novaccinepassports                       1
+----------- 2021-06-23 17:53:18 -----------
+covid19                                  420
+deltavariant                             55
+covidvaccine                             21
+vaccines                                 4
+novaccinepassports                       1
+----------- 2021-06-23 17:53:20 -----------
+covid19                                  422
+deltavariant                             55
+covidvaccine                             21
+vaccines                                 4
+novaccinepassports                       1
+----------- 2021-06-23 17:53:22 -----------
+covid19                                  426
+deltavariant                             55
+covidvaccine                             22
+vaccines                                 4
+novaccinepassports                       1
+----------- 2021-06-23 17:53:24 -----------
+covid19                                  429
+deltavariant                             55
+covidvaccine                             22
+vaccines                                 4
+novaccinepassports                       1
+----------- 2021-06-23 17:53:26 -----------
+covid19                                  429
+deltavariant                             56
+covidvaccine                             22
+vaccines                                 4
+novaccinepassports                       1
+----------- 2021-06-23 17:53:28 -----------
+covid19                                  433
+deltavariant                             56
+covidvaccine                             22
+vaccines                                 4
+novaccinepassports                       1
+----------- 2021-06-23 17:53:30 -----------
+covid19                                  435
+deltavariant                             56
+covidvaccine                             22
+vaccines                                 4
+novaccinepassports                       1
+----------- 2021-06-23 17:53:32 -----------
+covid19                                  435
+deltavariant                             56
+covidvaccine                             22
+vaccines                                 4
+novaccinepassports                       1
+----------- 2021-06-23 17:53:34 -----------
+covid19                                  437
+deltavariant                             57
+covidvaccine                             22
+vaccines                                 4
+novaccinepassports                       1
+----------- 2021-06-23 17:53:36 -----------
+covid19                                  437
+deltavariant                             57
+covidvaccine                             22
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:53:38 -----------
+covid19                                  441
+deltavariant                             58
+covidvaccine                             22
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:53:40 -----------
+covid19                                  442
+deltavariant                             58
+covidvaccine                             22
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:53:42 -----------
+covid19                                  445
+deltavariant                             58
+covidvaccine                             22
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:53:44 -----------
+covid19                                  447
+deltavariant                             58
+covidvaccine                             22
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:53:46 -----------
+covid19                                  448
+deltavariant                             58
+covidvaccine                             22
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:53:48 -----------
+covid19                                  450
+deltavariant                             58
+covidvaccine                             22
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:53:50 -----------
+covid19                                  452
+deltavariant                             58
+covidvaccine                             22
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:53:52 -----------
+covid19                                  458
+deltavariant                             58
+covidvaccine                             22
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:53:54 -----------
+covid19                                  460
+deltavariant                             58
+covidvaccine                             22
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:53:56 -----------
+covid19                                  462
+deltavariant                             58
+covidvaccine                             22
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:53:58 -----------
+covid19                                  463
+deltavariant                             59
+covidvaccine                             22
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:54:00 -----------
+covid19                                  464
+deltavariant                             60
+covidvaccine                             22
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:54:02 -----------
+covid19                                  466
+deltavariant                             61
+covidvaccine                             22
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:54:04 -----------
+covid19                                  468
+deltavariant                             61
+covidvaccine                             22
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:54:06 -----------
+covid19                                  471
+deltavariant                             61
+covidvaccine                             22
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:54:08 -----------
+covid19                                  473
+deltavariant                             61
+covidvaccine                             22
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:54:10 -----------
+covid19                                  476
+deltavariant                             62
+covidvaccine                             22
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:54:12 -----------
+covid19                                  480
+deltavariant                             62
+covidvaccine                             22
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:54:14 -----------
+covid19                                  481
+deltavariant                             63
+covidvaccine                             23
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:54:16 -----------
+covid19                                  487
+deltavariant                             63
+covidvaccine                             23
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:54:18 -----------
+covid19                                  489
+deltavariant                             63
+covidvaccine                             23
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:54:20 -----------
+covid19                                  490
+deltavariant                             63
+covidvaccine                             23
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:54:22 -----------
+covid19                                  492
+deltavariant                             64
+covidvaccine                             23
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:54:24 -----------
+covid19                                  492
+deltavariant                             64
+covidvaccine                             24
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:54:26 -----------
+covid19                                  493
+deltavariant                             64
+covidvaccine                             24
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:54:28 -----------
+covid19                                  494
+deltavariant                             64
+covidvaccine                             24
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:54:30 -----------
+covid19                                  499
+deltavariant                             64
+covidvaccine                             24
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:54:32 -----------
+covid19                                  501
+deltavariant                             65
+covidvaccine                             24
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:54:34 -----------
+covid19                                  504
+deltavariant                             66
+covidvaccine                             24
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:54:36 -----------
+covid19                                  507
+deltavariant                             66
+covidvaccine                             24
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:54:38 -----------
+covid19                                  511
+deltavariant                             67
+covidvaccine                             24
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:54:40 -----------
+covid19                                  511
+deltavariant                             68
+covidvaccine                             24
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:54:42 -----------
+covid19                                  511
+deltavariant                             68
+covidvaccine                             24
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:54:44 -----------
+covid19                                  514
+deltavariant                             68
+covidvaccine                             24
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:54:46 -----------
+covid19                                  514
+deltavariant                             68
+covidvaccine                             24
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:54:48 -----------
+covid19                                  515
+deltavariant                             68
+covidvaccine                             24
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:54:50 -----------
+covid19                                  518
+deltavariant                             68
+covidvaccine                             24
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:54:52 -----------
+covid19                                  522
+deltavariant                             68
+covidvaccine                             25
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:54:54 -----------
+covid19                                  524
+deltavariant                             68
+covidvaccine                             25
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:54:56 -----------
+covid19                                  524
+deltavariant                             68
+covidvaccine                             25
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:54:58 -----------
+covid19                                  528
+deltavariant                             69
+covidvaccine                             25
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:55:00 -----------
+covid19                                  530
+deltavariant                             69
+covidvaccine                             25
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:55:02 -----------
+covid19                                  534
+deltavariant                             69
+covidvaccine                             25
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:55:04 -----------
+covid19                                  537
+deltavariant                             70
+covidvaccine                             25
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:55:06 -----------
+covid19                                  539
+deltavariant                             70
+covidvaccine                             25
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:55:08 -----------
+covid19                                  542
+deltavariant                             70
+covidvaccine                             25
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:55:10 -----------
+covid19                                  546
+deltavariant                             72
+covidvaccine                             26
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:55:12 -----------
+covid19                                  550
+deltavariant                             72
+covidvaccine                             27
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:55:14 -----------
+covid19                                  552
+deltavariant                             72
+covidvaccine                             28
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:55:16 -----------
+covid19                                  557
+deltavariant                             72
+covidvaccine                             28
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:55:18 -----------
+covid19                                  559
+deltavariant                             72
+covidvaccine                             28
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:55:20 -----------
+covid19                                  562
+deltavariant                             72
+covidvaccine                             28
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:55:22 -----------
+covid19                                  565
+deltavariant                             72
+covidvaccine                             28
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:55:24 -----------
+covid19                                  567
+deltavariant                             72
+covidvaccine                             28
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:55:26 -----------
+covid19                                  567
+deltavariant                             73
+covidvaccine                             28
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:55:28 -----------
+covid19                                  568
+deltavariant                             73
+covidvaccine                             28
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:55:30 -----------
+covid19                                  570
+deltavariant                             75
+covidvaccine                             28
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:55:32 -----------
+covid19                                  571
+deltavariant                             75
+covidvaccine                             28
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:55:34 -----------
+covid19                                  575
+deltavariant                             75
+covidvaccine                             28
+vaccines                                 4
+novaccinepassports                       2
+----------- 2021-06-23 17:55:36 -----------
+covid19                                  576
+deltavariant                             75
+covidvaccine                             28
+vaccines                                 4
+novaccinepassports                       2

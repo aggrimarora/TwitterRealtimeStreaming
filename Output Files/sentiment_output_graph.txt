@@ -1,0 +1,10 @@
+pride:neg                                1
+covid:neu                                75
+covid:pos                                13
+football:neu                             9
+pride:pos                                16
+june:neu                                 5
+june:pos                                 1
+pride:neu                                1
+football:pos                             10
+covid:neg                                5

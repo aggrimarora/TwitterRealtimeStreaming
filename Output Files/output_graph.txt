@@ -1,0 +1,5 @@
+covid19                                  576
+deltavariant                             75
+covidvaccine                             28
+vaccines                                 4
+novaccinepassports                       2
