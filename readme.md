@@ -42,8 +42,8 @@ Output files added:
 
 ### Twitter trending tweets filtered based on hashtags
 
-![trending-tweets](./![trending-tweets](./NumberOfTweets_realtime.png))
+![trending-tweets](./NumberOfTweets_realtime.png))
 
 ### Twitter sentiment analysis filtered based on hashtags for different topics
 
-![sentiment-analysis](./![sentiment-analysis](./SentimentAnalysis_realtime.png))
+![sentiment-analysis](./SentimentAnalysis_realtime.png))
