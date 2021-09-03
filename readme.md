@@ -38,3 +38,12 @@ Output files added:
 3. sentiment_output_graph.txt (realtime data)
 4. sentiment_output_graph.txt (shows data filtered through spark streaming with time stamps)
 
+### Results:
+
+### Twitter trending tweets filtered based on hashtags
+
+![trending-tweets](./![trending-tweets](./NumberOfTweets_realtime.png))
+
+### Twitter sentiment analysis filtered based on hashtags for different topics
+
+![sentiment-analysis](./![sentiment-analysis](./SentimentAnalysis_realtime.png))
