@@ -1,19 +1,3 @@
-"""
-    This script connects to Twitter Streaming API, gets tweets with '#' and
-    forwards them through a local connection in port 9009. That stream is
-    meant to be read by a spark app for processing. Both apps are designed
-    to be run in Docker containers.
-    To execute this in a Docker container, do:
-
-        docker run -it -v $PWD:/app --name twitter -p 9009:9009 python bash
-    and inside the docker:
-        pip install -U git+https://github.com/tweepy/tweepy.git
-        python twitter_app.py
-    (we don't do pip install tweepy because of a bug in the previous release)
-    For more instructions on how to run, refer to final slides in tutorial 8
-    Made for: EECS 4415 - Big Data Systems (York University EECS dept.)
-    Author: Tilemachos Pechlivanoglou
-"""
 
 # from __future__ import absolute_import, print_function
 
@@ -26,11 +10,11 @@ from tweepy import OAuthHandler
 from tweepy import API
 from tweepy import Stream
 
-# Replace the values below with yours
-consumer_key = "cdxVFcNcNg9adb2KpiiTg9xgo"
-consumer_secret = "aiahTzJ8eTK3pXbGiSynwvczWkVe1xLxpo915ZYE7Msz0FlyEf"
-access_token = "1405306902473580547-Rwnh6N5eANvBFWDiu5Do5R9n35IJnw"
-access_token_secret = "vkF9K8zFCjeXbp85mMK4hxi9kI96cDJvJ2gXnrUxZsdg5"
+# replace these values
+consumer_key = ""
+consumer_secret = ""
+access_token = ""
+access_token_secret = ""
 
 
 class TweetListener(StreamListener):
